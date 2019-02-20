@@ -1,2 +1,2 @@
 # Practice
-Repository for practice files at ITMO University, third course, computer science.
+Repository for practice code files at ITMO University, third course, computer science. 2019.
